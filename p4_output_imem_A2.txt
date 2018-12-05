@@ -1,0 +1,28 @@
+r0 = 0
+r1 = -4095
+r2 = 40
+r3 = 1
+r4 = 696324
+r5 = 40
+r6 = 0
+r7 = 0
+
+multicycle cycle count = 731
+pipeline LW hazard stalls = 10
+pipeline Branch flush stalls = 34
+pipeline cycle count = 243
+
+hitA = 7
+missA = 3
+hitRateA = 0.7
+hitB = 5
+missB = 5
+hitRateB = 0.5
+hitC = 5
+missC = 5
+hitRateC = 0.5
+hitD = 5
+missD = 5
+hitRateD = 0.5
+
+DIC count = 195
